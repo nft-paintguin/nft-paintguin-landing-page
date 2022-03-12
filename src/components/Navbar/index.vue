@@ -35,7 +35,7 @@
 <script>
   import Discord from '@/assets/discord.png'
   import Opensea from '@/assets/opensea.png'
-  import Twitter from '@/assets/Twitter.png'
+  import Twitter from '@/assets/twitter.png'
 
   export default {
     name: 'Navbar',
